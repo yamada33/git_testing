@@ -9,3 +9,7 @@ p {
 button {
     padding: 10px 15px;
 }
+
+a {
+    text-decoration: none;
+}
